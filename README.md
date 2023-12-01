@@ -1,5 +1,5 @@
 # Guía de estilo en CSS
-Realiza las siguientes actividades y sube los cambios a tu repositorio.
+Realiza las siguientes actividades y sube un zip cambios a la tarea de Classroom.
 
 ## **1. Lee la guía de estilos para CSS propuesta por Google**
 Lee el punto 4 de la [guía de estilos de CSS propuesta por Google](https://google.github.io/styleguide/htmlcssguide.html#CSS).
