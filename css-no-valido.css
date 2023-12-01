@@ -1,0 +1,92 @@
+<!-- Esto es un CSS no válido -->
+
+ <!--[if IE]>
+      <link rel="stylesheet" href="css/ie.css" type="text/css"/>
+ <![endif]-->
+
+ #yee-1901 {}
+ .button-green {}
+ .clear {}
+ #navigation {}
+ .atr {}
+
+ ul#example {}
+ div.error {}
+
+ .error_status {
+ border-top-style: none;
+ font-family: palatino, georgia, serif;
+ font-size: 100%;
+ line-height: 1.6;
+ padding-bottom: 2em;
+ padding-left: 1em;
+ padding-right: 1em;
+ padding-top: 0;
+ }
+ .demoimage {margin: 0px;
+ padding: 1 1 0px;
+ font-size: 0.8em;
+ olor: #eebbcc;}
+
+
+ -moz-border-radius: 4px;
+ -webkit-border-radius: 4px;
+ background: fuchsia;
+ border: 1px solid;
+ text-align: center;
+ text-indent: 2em;
+ border-radius: 4px;
+ color: black;
+
+   h1 {
+     background: #fff;
+     color: #444;
+   }
+
+ .test {
+   display: block;
+   height: 100px
+ }
+
+ h3 {
+   font-weight:bold;
+ }
+
+ #video{
+   margin-top: 1em;
+ }
+
+ #video
+ {
+   margin-top: 1em;
+ }
+
+ a:focus, a:active {
+   position: relative; top: 1px;
+ }
+
+ html {
+   background: #fff;
+ }
+ body {
+   margin: auto;
+   width: 50%;
+ }
+
+ @import url("https://www.google.com/css/maia.css");
+
+ html {
+   font-family: "open sans", arial, sans-serif;
+ }
+
+ /* Header */
+
+ #adw-header {}
+
+ /* Footer */
+
+ #adw-footer {}
+
+ /* Gallery */
+
+ .adw-gallery {}
